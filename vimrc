@@ -17,3 +17,5 @@ set foldenable " enable folding
 set foldlevelstart=10 " open most folds by default
 set foldnestmax=10 " 10 nested fold max
 set foldmethod=syntax " fold based on syntax 
+set lines=35 columns=150 " opens with 35 lines 150 cols
+set colorcolumn=90 " avoid goin too far right
